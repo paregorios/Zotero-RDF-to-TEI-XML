@@ -1,0 +1,17 @@
+Stylesheet for converting Zotero RDF export XML to TEI XML bibliography
+It is adapted, with many modifications and enhancements, from a stylesheet
+developed by Kevin Hawkins and Stuart Yeats under terms of a Creative
+Commons Attribution license: http://wiki.tei-c.org/index.php/ZoteroToTEI
+
+Portions copyright Tom Elliott 2012. Free to copy, reuse, and remix under
+terms of Creative Commons Attribution License 3.0 (unported).
+
+TEI provides a range of rich options for bibliographic markup. Those chosen
+for use here conform to the bibliographic markup practice of the 
+Integrating Digital Papyrology project as reflected in bibliography
+already online at http://papyri.info
+
+Output for articles is not supported or expressed because the dataset for
+which this stylesheet was adapted (a Zotero library of content associated
+with the so-called Checklist of Greek and Latin Papyri etc.) was almost
+entirely books.
