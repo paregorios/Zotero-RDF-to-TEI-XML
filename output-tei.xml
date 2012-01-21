@@ -34,20 +34,11 @@
       <idno type="ISBN">9783851192469</idno>
       <series>
          <title level="s">Corpus Papyrorum Raineri</title>
+         <biblScope type="volume">18</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
     
-   <bibl id="cl-d0e124" type="article">
-      <title level="a" type="main">Papyrus Bodmer XXVIII: A Satyr-Play on the Confrontation of Heracles and Atlas</title>
-      <title>Museum Helveticum</title>
-      <imprint>
-         <date>1976</date>
-         <biblScope type="vol">54</biblScope>
-         <biblScope type="issue">2</biblScope>
-         <biblScope type="pp">1-23</biblScope>
-      </imprint>
-   </bibl>
     
    <bibl id="cl-d0e182" type="book">
       <title level="m" type="main">Die demotischen Gebelen-Urkunden der Heidelberger Papyrus-Sammlung</title>
@@ -81,6 +72,7 @@
       <idno type="ISBN">9788772896465</idno>
       <series>
          <title level="s">The Carlsberg Papyri</title>
+         <biblScope type="volume">5</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -124,6 +116,7 @@
       <idno type="ISBN">9788763503440</idno>
       <series>
          <title level="s">The Carlsberg Papyri</title>
+         <biblScope type="volume">9</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -143,6 +136,7 @@
       <idno type="checklist">item_590</idno>
       <series>
          <title level="s">Columbia Papyri</title>
+         <biblScope type="volume">1</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -218,6 +212,7 @@
       <idno type="checklist">item_595</idno>
       <series>
          <title level="s">Papiri greco-egizii, Papiri Fiorentini</title>
+         <biblScope type="volume">2</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -243,6 +238,7 @@
       <idno type="checklist">item_596</idno>
       <series>
          <title level="s">Michigan Papyri</title>
+         <biblScope type="volume">4.2</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -295,6 +291,7 @@
       <idno type="ISBN">9783886094134</idno>
       <series>
          <title level="s">Äegyptische Urkunden aus den Koeniglichen Museen zu Berlin: Griechische Urkunden</title>
+         <biblScope type="volume">18.1</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -314,6 +311,7 @@
       <idno type="checklist">item_605</idno>
       <series>
          <title level="s">Corpus Papyrorum Raineri</title>
+         <biblScope type="volume">2</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -340,6 +338,7 @@
       <idno type="ISBN">9781900188432</idno>
       <series>
          <title level="s">Papyri from Kellis</title>
+         <biblScope type="volume">3</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -376,7 +375,9 @@
       <ptr target="http://ipap.csad.ox.ac.uk/Cairo-Zenon.3.html"/>
       <series>
          <title level="s">Catalogue Général des Antiquités Égyptiennes du Musée du Caire</title>
-      </series>
+         <biblScope type="volume">85</biblScope>
+      </series><!--check for missing "virtual" series information-->
+      <biblScope type="volume">3</biblScope>
       <note type="subject">Papyri</note>
    </bibl>
     
@@ -401,6 +402,7 @@
       <idno type="checklist">item_613</idno>
       <series>
          <title level="s">Corpus Papyrorum Raineri</title>
+         <biblScope type="volume">6.1</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -420,6 +422,7 @@
       <idno type="checklist">item_614</idno>
       <series>
          <title level="s">Chester Beatty Biblical Papyri</title>
+         <biblScope type="volume">6</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -440,6 +443,7 @@
       <idno type="ISBN">9783851192605</idno>
       <series>
          <title level="s">Corpus Papyrorum Raineri</title>
+         <biblScope type="volume">20</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -459,6 +463,7 @@
       <idno type="checklist">item_621</idno>
       <series>
          <title level="s">Berliner Klassikertexte</title>
+         <biblScope type="volume">7</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -567,6 +572,7 @@
       <idno type="ISBN">9781900188982</idno>
       <series>
          <title level="s">Papyri from Kellis</title>
+         <biblScope type="volume">5</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -620,6 +626,7 @@
       <idno type="ISBN">9783851192254</idno>
       <series>
          <title level="s">Corpus Papyrorum Raineri</title>
+         <biblScope type="volume">13</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -646,6 +653,7 @@
       <ptr target="http://www.archive.org/details/altchristlichete06schm"/>
       <series>
          <title level="s">Berliner Klassikertexte</title>
+         <biblScope type="volume">6</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -665,6 +673,7 @@
       <idno type="checklist">item_638</idno>
       <series>
          <title level="s">Demotische Lesestücke</title>
+         <biblScope type="volume">2</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -714,6 +723,7 @@
       <ptr target="http://www.archive.org/details/griechischedich00bcgoog"/>
       <series>
          <title level="s">Berliner Klassikertexte</title>
+         <biblScope type="volume">5.1</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -734,6 +744,7 @@
       <idno type="ISBN">9783050021041</idno>
       <series>
          <title level="s">Demotische Papyri aus den Staatlichen Museen zu Berlin</title>
+         <biblScope type="volume">2</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -787,6 +798,7 @@
       <idno type="ISBN">9783598779503</idno>
       <series>
          <title level="s">Corpus Papyrorum Raineri</title>
+         <biblScope type="volume">25</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -878,6 +890,7 @@
       <idno type="ISBN">9783825351656</idno>
       <series>
          <title level="s">Veröffentlichungen aus der Heidelberger Papyrussammlung</title>
+         <biblScope type="volume">9</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -937,6 +950,7 @@
       <ptr target="http://www.archive.org/details/cu31924022695096"/>
       <series>
          <title level="s">Greek Papyri in the British Museum</title>
+         <biblScope type="volume">2</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -956,6 +970,7 @@
       <idno type="checklist">item_658</idno>
       <series>
          <title level="s">Papyri Iandanae</title>
+         <biblScope type="volume">2</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -998,6 +1013,7 @@
       <idno type="checklist">item_660</idno>
       <series>
          <title level="s">Papiri della Università degli Studi di Milano</title>
+         <biblScope type="volume">2</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -1018,6 +1034,7 @@
       <ptr target="http://bibd.uni-giessen.de/pub/iand/piandv5/papiandv5_-_meta.html"/>
       <series>
          <title level="s">Papyri Iandanae</title>
+         <biblScope type="volume">5</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -1124,6 +1141,7 @@
       <idno type="checklist">item_667</idno>
       <series>
          <title level="s">Demotische Lesestücke</title>
+         <biblScope type="volume">1</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -1144,6 +1162,7 @@
       <idno type="ISBN">9788772891613</idno>
       <series>
          <title level="s">The Carlsberg Papyri</title>
+         <biblScope type="volume">1</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -1178,6 +1197,7 @@
       <idno type="checklist">item_671</idno>
       <series>
          <title level="s">Aus der Papyrussammlung der Universitätsbibliothek in Lund</title>
+         <biblScope type="volume">3</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -1204,6 +1224,7 @@
       <idno type="ISBN">9783851192957</idno>
       <series>
          <title level="s">Corpus Papyrorum Raineri</title>
+         <biblScope type="volume">19</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -1240,6 +1261,7 @@
       <idno type="checklist">item_675</idno>
       <series>
          <title level="s">Chester Beatty Biblical Papyri</title>
+         <biblScope type="volume">1</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -1275,6 +1297,7 @@
       <idno type="checklist">item_677</idno>
       <series>
          <title level="s">La Collection Marcel Hombert</title>
+         <biblScope type="volume">1</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -1345,6 +1368,7 @@
       <ptr target="http://www.archive.org/details/aegyptischeurkun212kn"/>
       <series>
          <title level="s">Äegyptische Urkunden aus den Koeniglichen Museen zu Berlin: Griechische Urkunden</title>
+         <biblScope type="volume">2</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -1364,6 +1388,7 @@
       <idno type="checklist">item_682</idno>
       <series>
          <title level="s">Papyrus Bodmer</title>
+         <biblScope type="volume">3</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -1383,6 +1408,7 @@
       <idno type="checklist">item_683</idno>
       <series>
          <title level="s">Aus der Papyrussammlung der Universitätsbibliothek in Lund</title>
+         <biblScope type="volume">2</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -1492,6 +1518,7 @@
       <idno type="ISBN">9783851192407</idno>
       <series>
          <title level="s">Corpus Papyrorum Raineri</title>
+         <biblScope type="volume">15</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -1512,6 +1539,7 @@
       <idno type="ISBN">9783825304003</idno>
       <series>
          <title level="s">Veröffentlichungen aus der Heidelberger Papyrussammlung</title>
+         <biblScope type="volume">7</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -1537,6 +1565,7 @@
       <idno type="checklist">item_694</idno>
       <series>
          <title level="s">Papyri at Montserrat in the Roca Puig Collection</title>
+         <biblScope type="volume">1</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -1563,6 +1592,7 @@
       <ptr target="http://www.archive.org/details/amherstpapyribei01grenuoft"/>
       <series>
          <title level="s">The Amherst Papyri, Being an Account of the Greek Papyri in the Collection of the Right Hon. Lord Amherst of Hackney, F.S.A. at Didlington Hall, Norfolk</title>
+         <biblScope type="volume">1</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -1614,6 +1644,7 @@
       <idno type="checklist">item_698</idno>
       <series>
          <title level="s">Papyrus Bodmer</title>
+         <biblScope type="volume">2</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -1661,6 +1692,7 @@
       <idno type="checklist">item_700</idno>
       <series>
          <title level="s">Aus der Papyrussammlung der Universitätsbibliothek in Lund</title>
+         <biblScope type="volume">4</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -1700,6 +1732,7 @@
       <idno type="ISBN">9789062552009</idno>
       <series>
          <title level="s">Michigan Papyri</title>
+         <biblScope type="volume">15</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -1726,6 +1759,7 @@
       <idno type="ISBN">9783531099439</idno>
       <series>
          <title level="s">The Archive of Ammon Scholasticus of Panopolis</title>
+         <biblScope type="volume">1</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -1867,6 +1901,7 @@
       <ptr target="http://bibd.uni-giessen.de/pub/gibib4/pgissbib4_-_meta.html"/>
       <series>
          <title level="s">Mitteilungen aus der Papyrussammlung der Giessener Universitätsbibliothek</title>
+         <biblScope type="volume">4</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -1887,6 +1922,7 @@
       <ptr target="http://oilib.uchicago.edu/books/sottas_papyrus_lille_1.pdf"/>
       <series>
          <title level="s">Papyrus démotiques de Lille</title>
+         <biblScope type="volume">1</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -1944,6 +1980,7 @@
       <idno type="checklist">item_725</idno>
       <series>
          <title level="s">Papiri della Università degli Studi di Milano</title>
+         <biblScope type="volume">1</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -2001,6 +2038,7 @@
       <idno type="checklist">item_730</idno>
       <series>
          <title level="s">Fouilles Franco-Polonaises</title>
+         <biblScope type="volume">3</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -2033,6 +2071,7 @@
       <idno type="ISBN">9783774921887</idno>
       <series>
          <title level="s">Papyri Graecae Haunienses</title>
+         <biblScope type="volume">3</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -2053,6 +2092,7 @@
       <idno type="ISBN">9783851192124</idno>
       <series>
          <title level="s">Corpus Papyrorum Raineri</title>
+         <biblScope type="volume">9</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -2072,6 +2112,7 @@
       <idno type="checklist">item_734</idno>
       <series>
          <title level="s">Chester Beatty Biblical Papyri</title>
+         <biblScope type="volume">5</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -2129,7 +2170,9 @@
       <ptr target="http://ipap.csad.ox.ac.uk/Cairo-Zenon.4.html"/>
       <series>
          <title level="s">Catalogue Général des Antiquités Égyptiennes du Musée du Caire</title>
-      </series>
+         <biblScope type="volume">90</biblScope>
+      </series><!--check for missing "virtual" series information-->
+      <biblScope type="volume">4</biblScope>
       <note type="subject">Papyri</note>
    </bibl>
     
@@ -2189,6 +2232,7 @@
       <idno type="checklist">item_747</idno>
       <series>
          <title level="s">Papyrusurkunden der Öffentlichen Bibliothek der Universität zu Basel</title>
+         <biblScope type="volume">1.2</biblScope>
       </series>
       <note type="subject">Papyri</note>
       <note type="subject">
@@ -2233,20 +2277,11 @@
       <idno type="checklist">item_749</idno>
       <series>
          <title level="s">Veröffentlichungen aus den badischen Papyrus-Sammlungen</title>
+         <biblScope type="volume">2</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
     
-   <bibl id="cl-d0e7315" type="article">
-      <title level="a" type="main">New Papyri from the New York University Collection: I</title>
-      <title>Museum Helveticum</title>
-      <imprint>
-         <date>2000</date>
-         <biblScope type="vol">54</biblScope>
-         <biblScope type="issue">2</biblScope>
-         <biblScope type="pp">163-186</biblScope>
-      </imprint>
-   </bibl>
     
    <bibl id="cl-d0e7387" type="book">
       <title level="m" type="main">Papyrus démotiques de Lille 3</title>
@@ -2264,6 +2299,7 @@
       <idno type="ISBN">9782724700091</idno>
       <series>
          <title level="s">Papyrus démotiques de Lille</title>
+         <biblScope type="volume">3</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -2284,7 +2320,9 @@
       <ptr target="http://www.archive.org/details/papyrusgrecsdp02masp"/>
       <series>
          <title level="s">Catalogue Général des Antiquités Égyptiennes du Musée du Caire</title>
-      </series>
+         <biblScope type="volume">54</biblScope>
+      </series><!--check for missing "virtual" series information-->
+      <biblScope type="volume">2</biblScope>
       <note type="subject">Papyri</note>
    </bibl>
     
@@ -2375,6 +2413,7 @@
       <idno type="checklist">item_756</idno>
       <series>
          <title level="s">Die Papyri der Bayerischen Staatsbibliothek München</title>
+         <biblScope type="volume">3</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -2394,6 +2433,7 @@
       <idno type="checklist">item_757</idno>
       <series>
          <title level="s">Papyri Bruxellenses Graecae</title>
+         <biblScope type="volume">1</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -2414,6 +2454,7 @@
       <idno type="ISBN">9783851192865</idno>
       <series>
          <title level="s">Corpus Papyrorum Raineri</title>
+         <biblScope type="volume">22</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -2457,6 +2498,7 @@
       <idno type="ISBN">9780788502750</idno>
       <series>
          <title level="s">Columbia Papyri</title>
+         <biblScope type="volume">10</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -2533,6 +2575,7 @@
       <idno type="checklist">item_764</idno>
       <series>
          <title level="s">Fouilles Franco-Polonaises</title>
+         <biblScope type="volume">1</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -2593,6 +2636,7 @@
       <idno type="checklist">item_767</idno>
       <series>
          <title level="s">Michigan Papyri</title>
+         <biblScope type="volume">2</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -2612,20 +2656,11 @@
       <idno type="checklist">item_769</idno>
       <series>
          <title level="s">Papyrus Bodmer</title>
+         <biblScope type="volume">10-12</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
     
-   <bibl id="cl-d0e8556" type="article">
-      <title level="a" type="main">New Papyri from the New York University Collection: III</title>
-      <title>Museum Helveticum</title>
-      <imprint>
-         <date>2002</date>
-         <biblScope type="vol">54</biblScope>
-         <biblScope type="issue">2</biblScope>
-         <biblScope type="pp">129-150</biblScope>
-      </imprint>
-   </bibl>
     
    <bibl id="cl-d0e8628" type="book">
       <title level="m" type="main">Arabic Agricultural Leases and Tax Receipts from Egypt, 148-427 A.H./ 765-1035 A.D.: Arabic Texts</title>
@@ -2643,6 +2678,7 @@
       <idno type="ISBN">9783851192834</idno>
       <series>
          <title level="s">Corpus Papyrorum Raineri</title>
+         <biblScope type="volume">21</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -2662,6 +2698,7 @@
       <idno type="checklist">item_773</idno>
       <series>
          <title level="s">Papiri greco-egizii, Papiri Fiorentini</title>
+         <biblScope type="volume">1</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -2699,6 +2736,7 @@
       <idno type="ISBN">9789050630337</idno>
       <series>
          <title level="s">Papyri in the collection of the Erasmus University (Rotterdam)</title>
+         <biblScope type="volume">2</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -2786,6 +2824,7 @@
       <idno type="checklist">item_784</idno>
       <series>
          <title level="s">Papyrus Bodmer</title>
+         <biblScope type="volume">1</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -2824,20 +2863,11 @@
       <idno type="checklist">item_787</idno>
       <series>
          <title level="s">Äegyptische Urkunden aus den Koeniglichen Museen zu Berlin: Griechische Urkunden</title>
+         <biblScope type="volume">12</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
     
-   <bibl id="cl-d0e9338" type="article">
-      <title level="a" type="main">Papyrus Graux I</title>
-      <title>Museum Helveticum</title>
-      <imprint>
-         <date>1923, 1927</date>
-         <biblScope type="vol">54</biblScope>
-         <biblScope type="issue">2</biblScope>
-         <biblScope type="pp"/>
-      </imprint>
-   </bibl>
     
    <bibl id="cl-d0e9400" type="book">
       <title level="m" type="main">Enoch and Melito</title>
@@ -2854,6 +2884,7 @@
       <idno type="checklist">item_791</idno>
       <series>
          <title level="s">Chester Beatty Biblical Papyri</title>
+         <biblScope type="volume">8</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -2911,6 +2942,7 @@
       <idno type="checklist">item_798</idno>
       <series>
          <title level="s">Aus der Papyrussammlung der Universitätsbibliothek in Lund</title>
+         <biblScope type="volume">1</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -2957,7 +2989,9 @@
       <ptr target="http://ipap.csad.ox.ac.uk/Cairo-Zenon.2.html"/>
       <series>
          <title level="s">Catalogue Général des Antiquités Égyptiennes du Musée du Caire</title>
-      </series>
+         <biblScope type="volume">82</biblScope>
+      </series><!--check for missing "virtual" series information-->
+      <biblScope type="volume">2</biblScope>
       <note type="subject">Papyri</note>
    </bibl>
     
@@ -3011,6 +3045,7 @@
       <idno type="checklist">item_804</idno>
       <series>
          <title level="s">Columbia Papyri</title>
+         <biblScope type="volume">3</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -3119,6 +3154,7 @@
       <ptr target="http://www.archive.org/details/greekpapyriinbri04brituoft"/>
       <series>
          <title level="s">Greek Papyri in the British Museum</title>
+         <biblScope type="volume">4</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -3139,6 +3175,7 @@
       <ptr target="http://bibd.uni-giessen.de/pub/gibib3/pgissbib3_-_meta.html"/>
       <series>
          <title level="s">Mitteilungen aus der Papyrussammlung der Giessener Universitätsbibliothek</title>
+         <biblScope type="volume">3</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -3158,6 +3195,7 @@
       <idno type="checklist">item_817</idno>
       <series>
          <title level="s">Chester Beatty Biblical Papyri</title>
+         <biblScope type="volume">3.2</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -3184,6 +3222,7 @@
       <ptr target="http://www.archive.org/details/didymoskommenta00didygoog, http://www.archive.org/details/didymoskommentar00didyuoft"/>
       <series>
          <title level="s">Berliner Klassikertexte</title>
+         <biblScope type="volume">1</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -3241,6 +3280,7 @@
       <idno type="checklist">item_824</idno>
       <series>
          <title level="s">Äegyptische Urkunden aus den Koeniglichen Museen zu Berlin: Griechische Urkunden</title>
+         <biblScope type="volume">9</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -3267,6 +3307,7 @@
       <idno type="ISBN">9783506757166</idno>
       <series>
          <title level="s">The Archive of Ammon Scholasticus of Panopolis</title>
+         <biblScope type="volume">2</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -3293,6 +3334,7 @@
       <idno type="ISBN">9780891302773</idno>
       <series>
          <title level="s">Columbia Papyri</title>
+         <biblScope type="volume">7</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -3313,7 +3355,9 @@
       <ptr target="http://www.archive.org/details/papyrusgrecsdp01masp"/>
       <series>
          <title level="s">Catalogue Général des Antiquités Égyptiennes du Musée du Caire</title>
-      </series>
+         <biblScope type="volume">51</biblScope>
+      </series><!--check for missing "virtual" series information-->
+      <biblScope type="volume">1</biblScope>
       <note type="subject">Papyri</note>
    </bibl>
     
@@ -3348,6 +3392,7 @@
       <idno type="checklist">item_831</idno>
       <series>
          <title level="s">Corpus Papyrorum Raineri</title>
+         <biblScope type="volume">3</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -3367,6 +3412,7 @@
       <idno type="checklist">item_834</idno>
       <series>
          <title level="s">La Collection Marcel Hombert</title>
+         <biblScope type="volume">2</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -3404,6 +3450,7 @@
       <idno type="checklist">item_835</idno>
       <series>
          <title level="s">Fouilles Franco-Polonaises</title>
+         <biblScope type="volume">2</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -3464,6 +3511,7 @@
       <idno type="ISBN">9783533043409</idno>
       <series>
          <title level="s">Veröffentlichungen aus der Heidelberger Papyrussammlung</title>
+         <biblScope type="volume">5</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -3508,6 +3556,7 @@
       <idno type="ISBN">9783851191592</idno>
       <series>
          <title level="s">Corpus Papyrorum Raineri</title>
+         <biblScope type="volume">7</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -3527,6 +3576,7 @@
       <idno type="checklist">item_842</idno>
       <series>
          <title level="s">Aus der Papyrussammlung der Universitätsbibliothek in Lund</title>
+         <biblScope type="volume">6</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -3583,6 +3633,7 @@
       <idno type="checklist">item_848</idno>
       <series>
          <title level="s">Papyri Graecae Haunienses</title>
+         <biblScope type="volume">1</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -3615,6 +3666,7 @@
       <idno type="ISBN">9783856820213</idno>
       <series>
          <title level="s">Papyrus Bodmer</title>
+         <biblScope type="volume">29</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -3651,6 +3703,7 @@
       <ptr target="http://www.archive.org/details/cu31924022695120"/>
       <series>
          <title level="s">Greek Papyri in the British Museum</title>
+         <biblScope type="volume">5</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -3671,6 +3724,7 @@
       <ptr target="http://www.archive.org/details/aegyptischeurkun112kn"/>
       <series>
          <title level="s">Äegyptische Urkunden aus den Koeniglichen Museen zu Berlin: Griechische Urkunden</title>
+         <biblScope type="volume">1</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -3743,6 +3797,7 @@
       <idno type="ISBN">9788772895277</idno>
       <series>
          <title level="s">The Carlsberg Papyri</title>
+         <biblScope type="volume">4</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -3763,6 +3818,7 @@
       <ptr target="http://www.archive.org/details/corpuspapyrorum00natigoog"/>
       <series>
          <title level="s">Corpus Papyrorum Raineri</title>
+         <biblScope type="volume">1</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -3804,6 +3860,7 @@
       <idno type="checklist">item_863</idno>
       <series>
          <title level="s">Die Papyri der Bayerischen Staatsbibliothek München</title>
+         <biblScope type="volume">2</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -3867,6 +3924,7 @@
       <idno type="checklist">item_867</idno>
       <series>
          <title level="s">Papyri Bruxellenses Graecae</title>
+         <biblScope type="volume">2</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -3924,6 +3982,7 @@
       <idno type="checklist">item_871</idno>
       <series>
          <title level="s">Äegyptische Urkunden aus den Koeniglichen Museen zu Berlin: Griechische Urkunden</title>
+         <biblScope type="volume">10</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -3944,6 +4003,7 @@
       <idno type="ISBN">9783519076698</idno>
       <series>
          <title level="s">Michigan Papyri</title>
+         <biblScope type="volume">19</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -3982,6 +4042,7 @@
       <ptr target="http://www.archive.org/stream/lespapyrusdegen00nico"/>
       <series>
          <title level="s">Les Papyrus de Genève</title>
+         <biblScope type="volume">2</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -4007,6 +4068,7 @@
       <idno type="checklist">item_876</idno>
       <series>
          <title level="s">Berliner Klassikertexte</title>
+         <biblScope type="volume">2</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -4043,6 +4105,7 @@
       <idno type="ISBN">9781900188401</idno>
       <series>
          <title level="s">Papyri from Kellis</title>
+         <biblScope type="volume">4</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -4062,6 +4125,7 @@
       <idno type="checklist">item_881</idno>
       <series>
          <title level="s">Catalogue of the Demotic Papyri in the British Museum</title>
+         <biblScope type="volume">1</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -4098,6 +4162,7 @@
       <idno type="ISBN">9782600009348</idno>
       <series>
          <title level="s">Papyrus Graux</title>
+         <biblScope type="volume">4</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -4117,6 +4182,7 @@
       <idno type="checklist">item_884</idno>
       <series>
          <title level="s">Michigan Papyri</title>
+         <biblScope type="volume">10</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -4142,6 +4208,7 @@
       <idno type="checklist">item_885</idno>
       <series>
          <title level="s">Excavations at Nessana</title>
+         <biblScope type="volume">2</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -4186,6 +4253,7 @@
       <idno type="checklist">item_888</idno>
       <series>
          <title level="s">Papyri in the collection of the Erasmus University (Rotterdam)</title>
+         <biblScope type="volume">1</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -4222,20 +4290,11 @@
       <idno type="checklist">item_892</idno>
       <series>
          <title level="s">Catalogue Général des Antiquités égyptiennes du Musée du Caire: Die demotischen Denkmäler</title>
+         <biblScope type="volume">3</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
     
-   <bibl id="cl-d0e14069" type="article">
-      <title level="a" type="main">P.Bodmer recto LI: esercizio di divisione sillabica</title>
-      <title>Museum Helveticum</title>
-      <imprint>
-         <date>1998</date>
-         <biblScope type="vol">54</biblScope>
-         <biblScope type="issue">2</biblScope>
-         <biblScope type="pp">112-118</biblScope>
-      </imprint>
-   </bibl>
     
    <bibl id="cl-d0e14127" type="book">
       <title level="m" type="main">Nouvelle chrestomathie démotique</title>
@@ -4313,6 +4372,7 @@
       <ptr target="http://www.archive.org/details/greekpapyriinbri03brit"/>
       <series>
          <title level="s">Greek Papyri in the British Museum</title>
+         <biblScope type="volume">3</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -4406,39 +4466,13 @@
       <idno type="checklist">item_908</idno>
       <series>
          <title level="s">Papyrus Bodmer</title>
+         <biblScope type="volume">26</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
     
-        bookSection
-        
-            <bibl id="cl-d0e14708" type="book">
-      <title level="m" type="main">Beiträge zur Forschung  Studien und Mitteilungen aus dem Antiquariat Jacques Rosenthal 1</title>
-      <title level="m" type="short"/>
-      <date/>
-      <idno type="checklist"/>
-   </bibl>
-        
-        
-            
-   <pubPlace>Munich</pubPlace>
-   <publisher>J. Rosenthal</publisher>
-        
-        
-   <editor n="1">
-      <persName>
-         <surname>Hengstenberg</surname>
-         <forename>W.</forename>
-      </persName>
-   </editor>
-        
-   <note type="subject">Papyri</note>
-        Koptische Papyri
-        1915
-        <note type="pageCount">92-100</note>
-        P.HengstenbergCopt.
     
-    <bibl id="cl-d0e14767" type="book">
+   <bibl id="cl-d0e14767" type="book">
       <title level="m" type="main">Eine ptolemäische Königsurkunde</title>
       <title level="m" type="short">P.Kroll</title>
       <author n="1">
@@ -4470,6 +4504,7 @@
       <ptr target="http://www.archive.org/stream/lespapyrusdegen00nico"/>
       <series>
          <title level="s">Les Papyrus de Genève</title>
+         <biblScope type="volume">1</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -4489,6 +4524,7 @@
       <idno type="checklist">item_914</idno>
       <series>
          <title level="s">Äegyptische Urkunden aus den Koeniglichen Museen zu Berlin: Griechische Urkunden</title>
+         <biblScope type="volume">14</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -4541,6 +4577,7 @@
       <idno type="checklist">item_920</idno>
       <series>
          <title level="s">Papiri greco-egizii, Papiri Fiorentini</title>
+         <biblScope type="volume">3</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -4560,6 +4597,7 @@
       <idno type="checklist">item_921</idno>
       <series>
          <title level="s">Veröffentlichungen aus der Heidelberger Papyrussammlung</title>
+         <biblScope type="volume">2</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -4597,6 +4635,7 @@
       <idno type="checklist">item_926</idno>
       <series>
          <title level="s">Michigan Papyri</title>
+         <biblScope type="volume">7</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -4616,6 +4655,7 @@
       <idno type="checklist">item_927</idno>
       <series>
          <title level="s">Papyri Iandanae</title>
+         <biblScope type="volume">3</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -4635,6 +4675,7 @@
       <idno type="checklist">item_931</idno>
       <series>
          <title level="s">Papyrus Bodmer</title>
+         <biblScope type="volume">38</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -4655,6 +4696,7 @@
       <idno type="ISBN">9783886093014</idno>
       <series>
          <title level="s">Äegyptische Urkunden aus den Koeniglichen Museen zu Berlin: Griechische Urkunden</title>
+         <biblScope type="volume">15</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -4744,6 +4786,7 @@
       <idno type="ISBN">9782600000413</idno>
       <series>
          <title level="s">Papyrus Graux</title>
+         <biblScope type="volume">2</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -4763,6 +4806,7 @@
       <idno type="checklist">item_945</idno>
       <series>
          <title level="s">Papyrus Bodmer</title>
+         <biblScope type="volume">7-9</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -4794,6 +4838,7 @@
       <idno type="checklist">item_946</idno>
       <series>
          <title level="s">Columbia Papyri</title>
+         <biblScope type="volume">4</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -4814,6 +4859,7 @@
       <idno type="ISBN">9783050013237</idno>
       <series>
          <title level="s">Demotische Papyri aus den Staatlichen Museen zu Berlin</title>
+         <biblScope type="volume">1</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -4856,6 +4902,7 @@
       <idno type="checklist">item_951</idno>
       <series>
          <title level="s">Michigan Papyri</title>
+         <biblScope type="volume">6</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -4882,6 +4929,7 @@
       <idno type="ISBN">9783774933194</idno>
       <series>
          <title level="s">Louvre Papyri</title>
+         <biblScope type="volume">2</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -4952,6 +5000,7 @@
       <idno type="ISBN">9783110228878</idno>
       <series>
          <title level="s">Corpus Papyrorum Raineri</title>
+         <biblScope type="volume">30</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -5062,6 +5111,7 @@
       <idno type="ISBN">9780788504334</idno>
       <series>
          <title level="s">Columbia Papyri</title>
+         <biblScope type="volume">11</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -5113,6 +5163,7 @@
       <idno type="ISBN">9782600002134</idno>
       <series>
          <title level="s">Papyrus Graux</title>
+         <biblScope type="volume">3</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -5160,6 +5211,7 @@
       <idno type="checklist">item_984</idno>
       <series>
          <title level="s">Papyrus Bodmer</title>
+         <biblScope type="volume">22</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -5186,6 +5238,7 @@
       <idno type="ISBN">9783851192193</idno>
       <series>
          <title level="s">Corpus Papyrorum Raineri</title>
+         <biblScope type="volume">10</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -5242,6 +5295,7 @@
       <idno type="checklist">item_988</idno>
       <series>
          <title level="s">Äegyptische Urkunden aus den Koeniglichen Museen zu Berlin: Griechische Urkunden</title>
+         <biblScope type="volume">13</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -5355,6 +5409,7 @@
       <idno type="checklist">item_996</idno>
       <series>
          <title level="s">Veröffentlichungen aus den badischen Papyrus-Sammlungen</title>
+         <biblScope type="volume">3</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -5375,6 +5430,7 @@
       <ptr target="http://ipap.csad.ox.ac.uk/Cairo-Zenon.5.html"/>
       <series>
          <title level="s">Catalogue Général des Antiquités Égyptiennes du Musée du Caire</title>
+         <biblScope type="volume">5</biblScope>
       </series>
       <note type="subject">Papyri</note>
       <note type="subject">
@@ -5425,6 +5481,7 @@
       <idno type="ISBN">9783851192889</idno>
       <series>
          <title level="s">Corpus Papyrorum Raineri</title>
+         <biblScope type="volume">23</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -5445,6 +5502,7 @@
       <idno type="ISBN">9780888660145</idno>
       <series>
          <title level="s">Michigan Papyri</title>
+         <biblScope type="volume">12</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -5487,6 +5545,7 @@
       <idno type="ISBN">9783533038214</idno>
       <series>
          <title level="s">Veröffentlichungen aus der Heidelberger Papyrussammlung</title>
+         <biblScope type="volume">4</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -5535,6 +5594,7 @@
       <idno type="ISBN">9780788504464</idno>
       <series>
          <title level="s">Columbia Papyri</title>
+         <biblScope type="volume">9</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -5555,6 +5615,7 @@
       <idno type="ISBN">9783050024066</idno>
       <series>
          <title level="s">Demotische Papyri aus den Staatlichen Museen zu Berlin</title>
+         <biblScope type="volume">3</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -5592,6 +5653,7 @@
       <ptr target="http://www.archive.org/details/aegyptischeurkun312kn"/>
       <series>
          <title level="s">Äegyptische Urkunden aus den Koeniglichen Museen zu Berlin: Griechische Urkunden</title>
+         <biblScope type="volume">3</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -5623,6 +5685,7 @@
       <idno type="checklist">item_1013</idno>
       <series>
          <title level="s">Veröffentlichungen aus den badischen Papyrus-Sammlungen</title>
+         <biblScope type="volume">5</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -5693,6 +5756,7 @@
       <idno type="checklist">item_1017</idno>
       <series>
          <title level="s">Papyrus Bodmer</title>
+         <biblScope type="volume">18</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -5712,6 +5776,7 @@
       <idno type="checklist">item_1018</idno>
       <series>
          <title level="s">Veröffentlichungen aus der Heidelberger Papyrussammlung</title>
+         <biblScope type="volume">3</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -5737,6 +5802,7 @@
       <idno type="checklist">item_1019</idno>
       <series>
          <title level="s">Äegyptische Urkunden aus den Koeniglichen Museen zu Berlin: Griechische Urkunden</title>
+         <biblScope type="volume">5.1</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -5796,6 +5862,7 @@
       <idno type="checklist">item_1025</idno>
       <series>
          <title level="s">Mitteilungen aus der Freiburger Papyrussammlung</title>
+         <biblScope type="volume">3</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -5816,6 +5883,7 @@
       <idno type="ISBN">9781842172544</idno>
       <series>
          <title level="s">Papyri from Kellis</title>
+         <biblScope type="volume">6</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -5835,6 +5903,7 @@
       <idno type="checklist">item_1027</idno>
       <series>
          <title level="s">Greek Papyri in the British Museum</title>
+         <biblScope type="volume">7</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -5854,6 +5923,7 @@
       <idno type="checklist">item_1028</idno>
       <series>
          <title level="s">Papyrus Bodmer</title>
+         <biblScope type="volume">5</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -5954,6 +6024,7 @@
       <idno type="checklist">item_1039</idno>
       <series>
          <title level="s">Papiri della Università degli Studi di Milano</title>
+         <biblScope type="volume">3</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -5974,6 +6045,7 @@
       <idno type="ISBN">9783851192520</idno>
       <series>
          <title level="s">Corpus Papyrorum Raineri</title>
+         <biblScope type="volume">16</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -5993,6 +6065,7 @@
       <idno type="checklist">item_1043</idno>
       <series>
          <title level="s">Äegyptische Urkunden aus den Koeniglichen Museen zu Berlin: Griechische Urkunden</title>
+         <biblScope type="volume">11</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -6028,6 +6101,7 @@
       <idno type="ISBN">9783825301439</idno>
       <series>
          <title level="s">Veröffentlichungen aus der Heidelberger Papyrussammlung</title>
+         <biblScope type="volume">6</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -6048,6 +6122,7 @@
       <ptr target="http://bibd.uni-giessen.de/pub/gibib5/pgissbib5_-_meta.html"/>
       <series>
          <title level="s">Mitteilungen aus der Papyrussammlung der Giessener Universitätsbibliothek</title>
+         <biblScope type="volume">5</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -6067,6 +6142,7 @@
       <idno type="checklist">item_1049</idno>
       <series>
          <title level="s">Chester Beatty Biblical Papyri</title>
+         <biblScope type="volume">3.1</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -6087,6 +6163,7 @@
       <ptr target="http://bibd.uni-giessen.de/pub/iand/piandv7/papiandv7_-_meta.html"/>
       <series>
          <title level="s">Papyri Iandanae</title>
+         <biblScope type="volume">7</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -6106,6 +6183,7 @@
       <idno type="checklist">item_1051</idno>
       <series>
          <title level="s">Chester Beatty Biblical Papyri</title>
+         <biblScope type="volume">4</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -6148,6 +6226,7 @@
       <idno type="checklist">item_1053</idno>
       <series>
          <title level="s">Corpus Papyrorum Raineri</title>
+         <biblScope type="volume">6.2</biblScope>
       </series>
       <note type="subject">Papyri</note>
       <note type="subject">
@@ -6170,6 +6249,7 @@
       <idno type="checklist">item_1054</idno>
       <series>
          <title level="s">Papyrus Bodmer</title>
+         <biblScope type="volume">23</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -6204,6 +6284,7 @@
       <idno type="checklist">item_1058</idno>
       <series>
          <title level="s">Veröffentlichungen aus den badischen Papyrus-Sammlungen</title>
+         <biblScope type="volume">6</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -6223,6 +6304,7 @@
       <idno type="checklist">item_1059</idno>
       <series>
          <title level="s">Excavations at Nessana</title>
+         <biblScope type="volume">1</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -6255,6 +6337,7 @@
       <idno type="ISBN">9781555403966</idno>
       <series>
          <title level="s">Columbia Papyri</title>
+         <biblScope type="volume">8</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -6303,6 +6386,7 @@
       <idno type="ISBN">9783774922754</idno>
       <series>
          <title level="s">Mitteilungen aus der Freiburger Papyrussammlung</title>
+         <biblScope type="volume">4</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -6339,6 +6423,7 @@
       <idno type="checklist">item_1068</idno>
       <series>
          <title level="s">Äegyptische Urkunden aus den Koeniglichen Museen zu Berlin: Griechische Urkunden</title>
+         <biblScope type="volume">11</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -6468,6 +6553,7 @@
       <ptr target="http://www.archive.org/details/cu31924022695088"/>
       <series>
          <title level="s">Greek Papyri in the British Museum</title>
+         <biblScope type="volume">1</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -6488,6 +6574,7 @@
       <ptr target="http://bibd.uni-giessen.de/pub/gibib2/pgissbib2_-_meta.html"/>
       <series>
          <title level="s">Mitteilungen aus der Papyrussammlung der Giessener Universitätsbibliothek</title>
+         <biblScope type="volume">2</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -6513,6 +6600,7 @@
       <idno type="checklist">item_1084</idno>
       <series>
          <title level="s">Columbia Papyri</title>
+         <biblScope type="volume">2</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -6532,6 +6620,7 @@
       <idno type="checklist">item_1085</idno>
       <series>
          <title level="s">Catalogue Général des Antiquités égyptiennes du Musée du Caire: Die demotischen Denkmäler</title>
+         <biblScope type="volume">1</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -6567,6 +6656,7 @@
       <idno type="checklist">item_1087</idno>
       <series>
          <title level="s">Papiri della Università degli Studi di Milano</title>
+         <biblScope type="volume">5</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -6586,20 +6676,11 @@
       <idno type="checklist">item_1088</idno>
       <series>
          <title level="s">Papyri Iandanae</title>
+         <biblScope type="volume">4</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
     
-   <bibl id="cl-d0e22033" type="article">
-      <title level="a" type="main">New Papyri from the New York University Collection: II</title>
-      <title>Museum Helveticum</title>
-      <imprint>
-         <date>2001</date>
-         <biblScope type="vol">54</biblScope>
-         <biblScope type="issue">2</biblScope>
-         <biblScope type="pp">125-144</biblScope>
-      </imprint>
-   </bibl>
     
    <bibl id="cl-d0e22105" type="book">
       <title level="m" type="main">Greek Papyri in the Collection of New York University 1: Fourth Century Documents from Karanis</title>
@@ -6617,6 +6698,7 @@
       <ptr target="http://books.google.co.uk/books?id=XscUAAAAIAAJ&amp;printsec=frontcover&amp;dq=Greek+papyri+in+the+collection+of+New+York+University&amp;hl=en&amp;ei=8WilTq-cBoqf8gOy87DNBQ&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;redir_esc=y#v=onepage&amp;q&amp;f=false"/>
       <series>
          <title level="s">Greek Papyri in the Collection of New York University</title>
+         <biblScope type="volume">1</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -6666,22 +6748,6 @@
       <note type="subject">Papyri</note>
    </bibl>
     
-   <bibl id="cl-d0e22315" type="article">
-      <title level="a" type="main">Une Famille de chepteliers au IIIe s.p.C.</title>
-      <author n="1">
-         <persName>
-            <surname>Schwartz</surname>
-            <forename>J.</forename>
-         </persName>
-      </author>
-      <title>Museum Helveticum</title>
-      <imprint>
-         <date>1964</date>
-         <biblScope type="vol">54</biblScope>
-         <biblScope type="issue">2</biblScope>
-         <biblScope type="pp"/>
-      </imprint>
-   </bibl>
     
    <bibl id="cl-d0e22366" type="book">
       <title level="m" type="main">The Hibeh Papryi 1</title>
@@ -6721,6 +6787,7 @@
       <idno type="checklist">item_1095</idno>
       <series>
          <title level="s">Berliner Klassikertexte</title>
+         <biblScope type="volume">8</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -6769,16 +6836,6 @@
       <note type="subject">Papyri</note>
    </bibl>
     
-   <bibl id="cl-d0e22643" type="article">
-      <title level="a" type="main">Documents d'archives romains inédits du Moyen Euphrates, Part III</title>
-      <title>Museum Helveticum</title>
-      <imprint>
-         <date>2000</date>
-         <biblScope type="vol">54</biblScope>
-         <biblScope type="issue">2</biblScope>
-         <biblScope type="pp">157-208</biblScope>
-      </imprint>
-   </bibl>
     
    <bibl id="cl-d0e22728" type="book">
       <title level="m" type="main">Griechische Papyri der Universitätsbibliothek zu Groningen nebst zwei Papyri der Universitätsbibliothek zu Amsterdam</title>
@@ -6818,6 +6875,7 @@
       <idno type="ISBN">9783110207415</idno>
       <series>
          <title level="s">Corpus Papyrorum Raineri</title>
+         <biblScope type="volume">29</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -6919,6 +6977,7 @@
       <idno type="ISBN">9782252014134</idno>
       <series>
          <title level="s">Papyrus démotiques de Lille</title>
+         <biblScope type="volume">2</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -7016,16 +7075,6 @@
       <note type="subject">Papyri</note>
    </bibl>
     
-   <bibl id="cl-d0e23468" type="article">
-      <title level="a" type="main">Susanna e la prima visione di Daniele in due papiri inediti della Bibliotheca Bodmeriana: P.Bodm. XLV et P.Bodm. XLVI</title>
-      <title>Museum Helveticum</title>
-      <imprint>
-         <date>1981</date>
-         <biblScope type="vol">54</biblScope>
-         <biblScope type="issue">2</biblScope>
-         <biblScope type="pp">81-120</biblScope>
-      </imprint>
-   </bibl>
     
    <bibl id="cl-d0e23538" type="book">
       <title level="m" type="main">"(Gott) schütze das Fleisch des Pharao" : Untersuchungen zum magischen Handbuch pWien AEG 8426</title>
@@ -7043,6 +7092,7 @@
       <idno type="ISBN">9783598779527</idno>
       <series>
          <title level="s">Corpus Papyrorum Raineri</title>
+         <biblScope type="volume">27</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -7062,6 +7112,7 @@
       <idno type="checklist">item_1123</idno>
       <series>
          <title level="s">Papyrus Bodmer</title>
+         <biblScope type="volume">19</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -7082,6 +7133,7 @@
       <idno type="ISBN">9783851192452</idno>
       <series>
          <title level="s">Corpus Papyrorum Raineri</title>
+         <biblScope type="volume">17B</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -7156,6 +7208,7 @@
       <idno type="checklist">item_1130</idno>
       <series>
          <title level="s">Chester Beatty Biblical Papyri</title>
+         <biblScope type="volume">7</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -7181,6 +7234,7 @@
       <idno type="checklist">item_1131</idno>
       <series>
          <title level="s">Die Papyri der Bayerischen Staatsbibliothek München</title>
+         <biblScope type="volume">1</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -7266,16 +7320,6 @@
       <idno type="checklist">item_1137</idno>
    </bibl>
     
-   <bibl id="cl-d0e24339" type="article">
-      <title level="a" type="main">New Papyri from the New York University Collection: IV</title>
-      <title>Museum Helveticum</title>
-      <imprint>
-         <date>2004</date>
-         <biblScope type="vol">54</biblScope>
-         <biblScope type="issue">2</biblScope>
-         <biblScope type="pp">103-124</biblScope>
-      </imprint>
-   </bibl>
     
    <bibl id="cl-d0e24411" type="book">
       <title level="m" type="main">Kölner Papyri 8</title>
@@ -7321,6 +7365,7 @@
       <idno type="checklist">item_1143</idno>
       <series>
          <title level="s">Papyrus Bodmer</title>
+         <biblScope type="volume">13</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -7357,6 +7402,7 @@
       <idno type="ISBN">9781900188104</idno>
       <series>
          <title level="s">Papyri from Kellis</title>
+         <biblScope type="volume">2</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -7392,6 +7438,7 @@
       <idno type="checklist">item_1148</idno>
       <series>
          <title level="s">Catalogue of the Demotic Papyri in the British Museum</title>
+         <biblScope type="volume">2.1</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -7443,6 +7490,7 @@
       <idno type="ISBN">9788763504065</idno>
       <series>
          <title level="s">The Carlsberg Papyri</title>
+         <biblScope type="volume">8</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -7469,16 +7517,6 @@
       <note type="subject">Papyri</note>
    </bibl>
     
-   <bibl id="cl-d0e25119" type="article">
-      <title level="a" type="main">Documents d'archives romains inédits du Moyen Euphrates, Part II</title>
-      <title>Museum Helveticum</title>
-      <imprint>
-         <date>1997</date>
-         <biblScope type="vol">54</biblScope>
-         <biblScope type="issue">2</biblScope>
-         <biblScope type="pp">3-57</biblScope>
-      </imprint>
-   </bibl>
     
    <bibl id="cl-d0e25195" type="book">
       <title level="m" type="main">Papyrus Grecs de l'Institut Français d'Archéologie Orientale 3</title>
@@ -7502,16 +7540,6 @@
       <note type="subject">Papyri</note>
    </bibl>
     
-   <bibl id="cl-d0e25267" type="article">
-      <title level="a" type="main">Il papiro di Tucidide della Bibliotheca Bodmeriana (P.Bodmer XXVII)</title>
-      <title>Museum Helveticum</title>
-      <imprint>
-         <date>1975</date>
-         <biblScope type="vol">54</biblScope>
-         <biblScope type="issue">2</biblScope>
-         <biblScope type="pp">33-40</biblScope>
-      </imprint>
-   </bibl>
     
    <bibl id="cl-d0e25325" type="book">
       <title level="m" type="main">Papyrus grecs d'Apollônos Anô</title>
@@ -7551,6 +7579,7 @@
       <idno type="ISBN">9783598225543</idno>
       <series>
          <title level="s">Papyrus Bodmer</title>
+         <biblScope type="volume">30-37</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -7571,6 +7600,7 @@
       <idno type="ISBN">9788763504041</idno>
       <series>
          <title level="s">The Carlsberg Papyri</title>
+         <biblScope type="volume">6</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -7591,6 +7621,7 @@
       <idno type="ISBN">9783851192896</idno>
       <series>
          <title level="s">Corpus Papyrorum Raineri</title>
+         <biblScope type="volume">24</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -7617,6 +7648,7 @@
       <ptr target="http://www.archive.org/details/newclassicalfrag00gren"/>
       <series>
          <title level="s">Papyrus Grenfell</title>
+         <biblScope type="volume">2</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -7637,6 +7669,7 @@
       <idno type="ISBN">9783110239676</idno>
       <series>
          <title level="s">Corpus Papyrorum Raineri</title>
+         <biblScope type="volume">31</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -7656,6 +7689,7 @@
       <idno type="checklist">item_1165</idno>
       <series>
          <title level="s">Excavations at Nessana</title>
+         <biblScope type="volume">3</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -7675,6 +7709,7 @@
       <idno type="checklist">item_1166</idno>
       <series>
          <title level="s">Veröffentlichungen aus der Heidelberger Papyrussammlung</title>
+         <biblScope type="volume">1</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -7735,6 +7770,7 @@
       <ptr target="http://www.archive.org/details/aegyptischeurkun412kn"/>
       <series>
          <title level="s">Äegyptische Urkunden aus den Koeniglichen Museen zu Berlin: Griechische Urkunden</title>
+         <biblScope type="volume">4</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -7761,6 +7797,7 @@
       <idno type="ISBN">9782882200211</idno>
       <series>
          <title level="s">Les Papyrus de Genève</title>
+         <biblScope type="volume">1 (2)</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -7802,6 +7839,7 @@
       <idno type="checklist">item_1178</idno>
       <series>
          <title level="s">Corpus Papyrorum Aegypti</title>
+         <biblScope type="volume">1</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -7822,6 +7860,7 @@
       <ptr target="http://www.archive.org/details/alexandrianeroti00gren"/>
       <series>
          <title level="s">Papyrus Grenfell</title>
+         <biblScope type="volume">1</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -7880,6 +7919,7 @@
       <idno type="checklist">item_1185</idno>
       <series>
          <title level="s">Corpus Papyrorum Raineri</title>
+         <biblScope type="volume">5</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -7931,6 +7971,7 @@
       <idno type="checklist">item_1191</idno>
       <series>
          <title level="s">Papyrus Bodmer</title>
+         <biblScope type="volume">6</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -7951,6 +7992,7 @@
       <idno type="ISBN">9780891302957</idno>
       <series>
          <title level="s">Michigan Papyri</title>
+         <biblScope type="volume">14</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -7971,6 +8013,7 @@
       <idno type="ISBN">9783825311001</idno>
       <series>
          <title level="s">Veröffentlichungen aus der Heidelberger Papyrussammlung</title>
+         <biblScope type="volume">8</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -8101,6 +8144,7 @@
       <idno type="ISBN">9780829502084</idno>
       <series>
          <title level="s">Michigan Papyri</title>
+         <biblScope type="volume">9</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -8137,6 +8181,7 @@
       <idno type="checklist">item_1205</idno>
       <series>
          <title level="s">Papiri della Università degli Studi di Milano</title>
+         <biblScope type="volume">4</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -8157,6 +8202,7 @@
       <ptr target="http://bibd.uni-giessen.de/pub/iand/piandv1/papiandv1_-_meta.html"/>
       <series>
          <title level="s">Papyri Iandanae</title>
+         <biblScope type="volume">1</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -8251,7 +8297,9 @@
       <publisher>Cisalpino-La Goliardica</publisher>
       <date>1971</date>
       <idno type="checklist">item_1212</idno>
-      <series/>
+      <series>
+         <biblScope type="volume">36</biblScope>
+      </series>
       <note type="subject">Papyri</note>
    </bibl>
     
@@ -8291,6 +8339,7 @@
       <idno type="checklist">item_1214</idno>
       <series>
          <title level="s">Columbia Papyri</title>
+         <biblScope type="volume">6</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -8317,6 +8366,7 @@
       <idno type="ISBN">9788772895475</idno>
       <series>
          <title level="s">The Carlsberg Papyri</title>
+         <biblScope type="volume">3</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -8348,6 +8398,7 @@
       <idno type="checklist">item_1218</idno>
       <series>
          <title level="s">Michigan Papyri</title>
+         <biblScope type="volume">5</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -8367,6 +8418,7 @@
       <idno type="checklist">item_1219</idno>
       <series>
          <title level="s">Papyrus Bodmer</title>
+         <biblScope type="volume">25</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -8422,6 +8474,7 @@
       <idno type="ISBN">9783805317214</idno>
       <series>
          <title level="s">Berliner Klassikertexte</title>
+         <biblScope type="volume">9</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -8459,6 +8512,7 @@
       <idno type="ISBN">9788763504058</idno>
       <series>
          <title level="s">The Carlsberg Papyri</title>
+         <biblScope type="volume">7</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -8478,6 +8532,7 @@
       <idno type="checklist">item_1225</idno>
       <series>
          <title level="s">Corpus Papyrorum Raineri</title>
+         <biblScope type="volume">12</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -8504,6 +8559,7 @@
       <idno type="ISBN">9783774918139</idno>
       <series>
          <title level="s">Papyri Graecae Haunienses</title>
+         <biblScope type="volume">2</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -8585,6 +8641,7 @@
       <idno type="checklist">item_1234</idno>
       <series>
          <title level="s">Papyrus Bodmer</title>
+         <biblScope type="volume">4</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -8650,6 +8707,7 @@
       <idno type="checklist">item_1237</idno>
       <series>
          <title level="s">Veröffentlichungen aus den badischen Papyrus-Sammlungen</title>
+         <biblScope type="volume">1</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -8670,6 +8728,7 @@
       <idno type="ISBN">9783851192339</idno>
       <series>
          <title level="s">Corpus Papyrorum Raineri</title>
+         <biblScope type="volume">14</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -8707,16 +8766,6 @@
       <note type="subject">Papyri</note>
    </bibl>
     
-   <bibl id="cl-d0e29319" type="article">
-      <title level="a" type="main">P.Bodmer LII: Isocrate, A Nicoclès 16—22</title>
-      <title>Museum Helveticum</title>
-      <imprint>
-         <date>1997</date>
-         <biblScope type="vol">54</biblScope>
-         <biblScope type="issue">2</biblScope>
-         <biblScope type="pp">97-105</biblScope>
-      </imprint>
-   </bibl>
     
     
    <bibl id="cl-d0e29382" type="book">
@@ -8820,6 +8869,7 @@
       <idno type="checklist">item_1247</idno>
       <series>
          <title level="s">Äegyptische Urkunden aus den Koeniglichen Museen zu Berlin: Griechische Urkunden</title>
+         <biblScope type="volume">7</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -8880,6 +8930,7 @@
       <idno type="checklist">item_1253</idno>
       <series>
          <title level="s">Chester Beatty Biblical Papyri</title>
+         <biblScope type="volume">2</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -8900,6 +8951,7 @@
       <idno type="ISBN">9783598775413</idno>
       <series>
          <title level="s">Äegyptische Urkunden aus den Koeniglichen Museen zu Berlin: Griechische Urkunden</title>
+         <biblScope type="volume">17</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -8925,6 +8977,7 @@
       <idno type="checklist">item_1259</idno>
       <series>
          <title level="s">Catalogue of Demotic Papyri in the Ashmolean Museum</title>
+         <biblScope type="volume">1</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -8945,6 +8998,7 @@
       <ptr target="http://bibd.uni-giessen.de/pub/iand/piandv8/papiandv8_-_meta.html"/>
       <series>
          <title level="s">Papyri Iandanae</title>
+         <biblScope type="volume">8</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -9034,6 +9088,7 @@
       <idno type="checklist">item_1270</idno>
       <series>
          <title level="s">Papiri della Università degli Studi di Milano</title>
+         <biblScope type="volume">7</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -9097,6 +9152,7 @@
       <idno type="checklist">item_1274</idno>
       <series>
          <title level="s">Papyrus Bodmer</title>
+         <biblScope type="volume">24</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -9133,20 +9189,11 @@
       <idno type="ISBN">9783851192445</idno>
       <series>
          <title level="s">Corpus Papyrorum Raineri</title>
+         <biblScope type="volume">17A</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
     
-   <bibl id="cl-d0e30788" type="article">
-      <title level="a" type="main">Papyrus Bodmer 48 (Iliade 1.45—58)</title>
-      <title/>
-      <imprint>
-         <date>1990</date>
-         <biblScope type="vol"/>
-         <biblScope type="issue"/>
-         <biblScope type="pp">30-33</biblScope>
-      </imprint>
-   </bibl>
     
    <bibl id="cl-d0e30846" type="book">
       <title level="m" type="main">Nos 118-146: textes littéraires et documentaires</title>
@@ -9165,6 +9212,7 @@
       <ptr target="http://www.archive.org/stream/lespapyrusdegen00nico"/>
       <series>
          <title level="s">Les Papyrus de Genève</title>
+         <biblScope type="volume">3</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -9190,6 +9238,7 @@
       <idno type="checklist">item_1284</idno>
       <series>
          <title level="s">Aus der Papyrussammlung der Universitätsbibliothek in Lund</title>
+         <biblScope type="volume">5</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -9328,6 +9377,7 @@
       <ptr target="http://www.archive.org/details/papyriundostraka00schu"/>
       <series>
          <title level="s">Äegyptische Urkunden aus den Koeniglichen Museen zu Berlin: Griechische Urkunden</title>
+         <biblScope type="volume">6</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -9433,6 +9483,7 @@
       <idno type="checklist">item_1301</idno>
       <series>
          <title level="s">Papyrus Bodmer</title>
+         <biblScope type="volume">17</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -9503,6 +9554,7 @@
       <idno type="ISBN">9783774928381</idno>
       <series>
          <title level="s">Louvre Papyri</title>
+         <biblScope type="volume">1</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -9546,6 +9598,7 @@
       <idno type="ISBN">9788772892801</idno>
       <series>
          <title level="s">The Carlsberg Papyri</title>
+         <biblScope type="volume">2</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -9589,16 +9642,6 @@
       <note type="subject">Papyri</note>
    </bibl>
     
-   <bibl id="cl-d0e32293" type="article">
-      <title level="a" type="main">Documents d'archives romains inédits du Moyen Euphrates, Part I</title>
-      <title/>
-      <imprint>
-         <date>1995</date>
-         <biblScope type="vol"/>
-         <biblScope type="issue"/>
-         <biblScope type="pp">65-119</biblScope>
-      </imprint>
-   </bibl>
     
    <bibl id="cl-d0e32369" type="book">
       <title level="m" type="main">Select Papyri from West-Berlin</title>
@@ -9743,6 +9786,7 @@
       <idno type="checklist">item_1322</idno>
       <series>
          <title level="s">Berliner Klassikertexte</title>
+         <biblScope type="volume">4</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -9785,6 +9829,7 @@
       <idno type="ISBN">9780714109527</idno>
       <series>
          <title level="s">Catalogue of the Demotic Papyri in the British Museum</title>
+         <biblScope type="volume">4</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -9810,6 +9855,7 @@
       <idno type="checklist">item_1329</idno>
       <series>
          <title level="s">Corpus Papyrorum Aegypti</title>
+         <biblScope type="volume">2</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -9863,6 +9909,7 @@
       <idno type="checklist">item_1331</idno>
       <series>
          <title level="s">Catalogue Général des Antiquités égyptiennes du Musée du Caire: Die demotischen Denkmäler</title>
+         <biblScope type="volume">2</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -9883,6 +9930,7 @@
       <ptr target="http://bibd.uni-giessen.de/pub/gibib6/pgissbib6_-_meta.html"/>
       <series>
          <title level="s">Mitteilungen aus der Papyrussammlung der Giessener Universitätsbibliothek</title>
+         <biblScope type="volume">6</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -9903,6 +9951,7 @@
       <idno type="ISBN">9780888660091</idno>
       <series>
          <title level="s">Michigan Papyri</title>
+         <biblScope type="volume">11</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -9991,6 +10040,7 @@
       <idno type="checklist">item_1340</idno>
       <series>
          <title level="s">Äegyptische Urkunden aus den Koeniglichen Museen zu Berlin: Griechische Urkunden</title>
+         <biblScope type="volume">8</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -10011,6 +10061,7 @@
       <idno type="ISBN">9783598775949</idno>
       <series>
          <title level="s">Äegyptische Urkunden aus den Koeniglichen Museen zu Berlin: Griechische Urkunden</title>
+         <biblScope type="volume">19</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -10031,6 +10082,7 @@
       <idno type="ISBN">9783598779510</idno>
       <series>
          <title level="s">Corpus Papyrorum Raineri</title>
+         <biblScope type="volume">26</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -10051,6 +10103,7 @@
       <idno type="ISBN">9781555405472</idno>
       <series>
          <title level="s">Michigan Papyri</title>
+         <biblScope type="volume">16</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -10116,6 +10169,7 @@
       <idno type="ISBN">9780714109374</idno>
       <series>
          <title level="s">Catalogue of the Demotic Papyri in the British Museum</title>
+         <biblScope type="volume">3</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -10135,6 +10189,7 @@
       <idno type="checklist">item_1351</idno>
       <series>
          <title level="s">Corpus Papyrorum Raineri</title>
+         <biblScope type="volume">4</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -10170,6 +10225,7 @@
       <idno type="checklist">item_1355</idno>
       <series>
          <title level="s">Chester Beatty Biblical Papyri</title>
+         <biblScope type="volume">Suppl.</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -10190,6 +10246,7 @@
       <ptr target="http://bibd.uni-giessen.de/pub/gibib1/pgissbib1_-_meta.html"/>
       <series>
          <title level="s">Mitteilungen aus der Papyrussammlung der Giessener Universitätsbibliothek</title>
+         <biblScope type="volume">1</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -10272,6 +10329,7 @@
       <idno type="checklist">item_1360</idno>
       <series>
          <title level="s">Mitteilungen aus der Freiburger Papyrussammlung</title>
+         <biblScope type="volume">1</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -10292,6 +10350,7 @@
       <ptr target="http://www.archive.org/details/papyrusgrecs02jouguoft"/>
       <series>
          <title level="s">Papyrus grecs</title>
+         <biblScope type="volume">2</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -10311,6 +10370,7 @@
       <idno type="checklist">item_1363</idno>
       <series>
          <title level="s">Papiri della Università degli Studi di Milano</title>
+         <biblScope type="volume">6</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -10337,20 +10397,11 @@
       <ptr target="http://www.archive.org/details/griechischepapy00kalbgoog"/>
       <series>
          <title level="s">Berliner Klassikertexte</title>
+         <biblScope type="volume">3</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
     
-   <bibl id="cl-d0e34841" type="article">
-      <title level="a" type="main">Papyrus Bodmer 49 (Odyssée 9.455—488 et 526—556; 10.188—215)</title>
-      <title/>
-      <imprint>
-         <date>1986</date>
-         <biblScope type="vol"/>
-         <biblScope type="issue"/>
-         <biblScope type="pp">221-230</biblScope>
-      </imprint>
-   </bibl>
     
    <bibl id="cl-d0e34899" type="book">
       <title level="m" type="main">Classical Fragments and Documents of the Ptolemaic, Roman and Byzantine Periods</title>
@@ -10374,6 +10425,7 @@
       <ptr target="http://www.archive.org/details/amherstpapyribei02grenuoft"/>
       <series>
          <title level="s">The Amherst Papyri, Being an Account of the Greek Papyri in the Collection of the Right Hon. Lord Amherst of Hackney, F.S.A. at Didlington Hall, Norfolk</title>
+         <biblScope type="volume">2</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -10425,6 +10477,7 @@
       <idno type="checklist">item_1370</idno>
       <series>
          <title level="s">Michigan Papyri</title>
+         <biblScope type="volume">4.1</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -10582,6 +10635,7 @@
       <idno type="checklist">item_1378</idno>
       <series>
          <title level="s">Les Papyrus de Genève</title>
+         <biblScope type="volume">4</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -10644,6 +10698,7 @@
       <idno type="checklist">item_1381</idno>
       <series>
          <title level="s">Columbia Papyri</title>
+         <biblScope type="volume">5</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -10685,6 +10740,7 @@
       <idno type="checklist">item_1385</idno>
       <series>
          <title level="s">Papyrus Bodmer</title>
+         <biblScope type="volume">16</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -10705,6 +10761,7 @@
       <idno type="ISBN">9780788502767</idno>
       <series>
          <title level="s">Michigan Papyri</title>
+         <biblScope type="volume">17</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -10724,6 +10781,7 @@
       <idno type="checklist">item_1387</idno>
       <series>
          <title level="s">Michigan Papyri</title>
+         <biblScope type="volume">1</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -10772,6 +10830,7 @@
       <idno type="checklist">item_1394</idno>
       <series>
          <title level="s">Mitteilungen aus der Papyrussammlung der Giessener Universitätsbibliothek</title>
+         <biblScope type="volume">indices</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -10815,6 +10874,7 @@
       <idno type="checklist">item_1398</idno>
       <series>
          <title level="s">Michigan Papyri</title>
+         <biblScope type="volume">8</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -10947,6 +11007,7 @@
       <idno type="checklist">item_1404</idno>
       <series>
          <title level="s">Veröffentlichungen aus den badischen Papyrus-Sammlungen</title>
+         <biblScope type="volume">4</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -10972,6 +11033,7 @@
       <idno type="checklist">item_1407</idno>
       <series>
          <title level="s">Papiri della Università degli Studi di Milano</title>
+         <biblScope type="volume">8</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -11041,6 +11103,7 @@
       <idno type="checklist">item_1411</idno>
       <series>
          <title level="s">Papyri at Montserrat in the Roca Puig Collection</title>
+         <biblScope type="volume">2</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -11120,6 +11183,7 @@
       <ptr target="http://www.archive.org/details/griechischedich00bcgoog"/>
       <series>
          <title level="s">Berliner Klassikertexte</title>
+         <biblScope type="volume">5.2</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -11145,6 +11209,7 @@
       <idno type="checklist">item_1417</idno>
       <series>
          <title level="s">Papyrus Bodmer</title>
+         <biblScope type="volume">14-15</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -11210,16 +11275,6 @@
       <note type="subject">Papyri</note>
    </bibl>
     
-   <bibl id="cl-d0e37606" type="article">
-      <title level="a" type="main">Papyrus Bodmer L: Das neutestamentliche Papyrusfragment p73 = Mt, 25, 43 / 26, 2—3</title>
-      <title/>
-      <imprint>
-         <date>1990</date>
-         <biblScope type="vol"/>
-         <biblScope type="issue"/>
-         <biblScope type="pp">35-40</biblScope>
-      </imprint>
-   </bibl>
     
    <bibl id="cl-d0e37664" type="book">
       <title level="m" type="main">Urkunden in griechischer Sprache</title>
@@ -11236,6 +11291,7 @@
       <idno type="checklist">item_1423</idno>
       <series>
          <title level="s">Papyrusurkunden der Öffentlichen Bibliothek der Universität zu Basel</title>
+         <biblScope type="volume">1.1</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -11281,6 +11337,7 @@
       <idno type="checklist">item_1430</idno>
       <series>
          <title level="s">Äegyptische Urkunden aus den Koeniglichen Museen zu Berlin: Griechische Urkunden</title>
+         <biblScope type="volume">5.2</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -11315,6 +11372,7 @@
       <idno type="checklist">item_1434</idno>
       <series>
          <title level="s">Aus der Papyrussammlung der Universitätsbibliothek in Lund</title>
+         <biblScope type="volume">index</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -11358,6 +11416,7 @@
       <idno type="ISBN">9783886093922</idno>
       <series>
          <title level="s">Äegyptische Urkunden aus den Koeniglichen Museen zu Berlin: Griechische Urkunden</title>
+         <biblScope type="volume">16</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -11498,6 +11557,7 @@
       <ptr target="http://bibd.uni-giessen.de/pub/iand/piandv6/papiandv6_-_meta.html"/>
       <series>
          <title level="s">Papyri Iandanae</title>
+         <biblScope type="volume">6</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -11518,7 +11578,9 @@
       <ptr target="http://www.archive.org/details/papyrusgrecsdp03masp"/>
       <series>
          <title level="s">Catalogue Général des Antiquités Égyptiennes du Musée du Caire</title>
-      </series>
+         <biblScope type="volume">73</biblScope>
+      </series><!--check for missing "virtual" series information-->
+      <biblScope type="volume">3</biblScope>
       <note type="subject">Papyri</note>
    </bibl>
     
@@ -11605,6 +11667,7 @@
       <idno type="ISBN">9780946897971</idno>
       <series>
          <title level="s">Papyri from Kellis</title>
+         <biblScope type="volume">1</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -11631,6 +11694,7 @@
       <idno type="ISBN">9783851192032</idno>
       <series>
          <title level="s">Corpus Papyrorum Raineri</title>
+         <biblScope type="volume">8</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -11656,6 +11720,7 @@
       <idno type="checklist">item_1455</idno>
       <series>
          <title level="s">Greek Papyri in the British Museum</title>
+         <biblScope type="volume">6</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -11676,7 +11741,9 @@
       <ptr target="http://ipap.csad.ox.ac.uk/Cairo-Zenon.1.html"/>
       <series>
          <title level="s">Catalogue Général des Antiquités Égyptiennes du Musée du Caire</title>
-      </series>
+         <biblScope type="volume">79</biblScope>
+      </series><!--check for missing "virtual" series information-->
+      <biblScope type="volume">1</biblScope>
       <note type="subject">Papyri</note>
    </bibl>
     
@@ -11711,6 +11778,7 @@
       <idno type="checklist">item_1461</idno>
       <series>
          <title level="s">Papyrus Bodmer</title>
+         <biblScope type="volume">20</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -11731,6 +11799,7 @@
       <ptr target="http://www.archive.org/details/juristischetexte00part"/>
       <series>
          <title level="s">Mitteilungen aus der Freiburger Papyrussammlung</title>
+         <biblScope type="volume">2</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -11751,6 +11820,7 @@
       <idno type="ISBN">9789062552009</idno>
       <series>
          <title level="s">Michigan Papyri</title>
+         <biblScope type="volume">13</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -11789,6 +11859,7 @@
       <ptr target="http://www.archive.org/details/papyrusgrecs01jouguoft"/>
       <series>
          <title level="s">Papyrus grecs</title>
+         <biblScope type="volume">1</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -11830,6 +11901,7 @@
       <idno type="checklist">item_1467</idno>
       <series>
          <title level="s">Michigan Papyri</title>
+         <biblScope type="volume">18</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -12017,6 +12089,7 @@
       <idno type="checklist">item_1477</idno>
       <series>
          <title level="s">Papyrus Bodmer</title>
+         <biblScope type="volume">21</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -12059,6 +12132,7 @@
       <idno type="ISBN">9783110195231</idno>
       <series>
          <title level="s">Corpus Papyrorum Raineri</title>
+         <biblScope type="volume">28</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
@@ -12078,6 +12152,7 @@
       <idno type="checklist">item_1482</idno>
       <series>
          <title level="s">Michigan Papyri</title>
+         <biblScope type="volume">3</biblScope>
       </series>
       <note type="subject">Papyri</note>
    </bibl>
