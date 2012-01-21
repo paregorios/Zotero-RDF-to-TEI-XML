@@ -61,6 +61,7 @@
             <xsl:for-each select="dcterms:isPartOf">
                 <xsl:apply-templates select="bib:Series"/>
             </xsl:for-each>
+            <xsl:apply-templates select="prism:volume"/>
             <xsl:apply-templates select="dc:subject"/>
         </xsl:element>
     </xsl:template>
@@ -69,33 +70,13 @@
         <!-- aiieeeee -->
     </xsl:template>
     
-    <xsl:template match="bib:Article">
-        <xsl:variable name="cl-id">
-            <xsl:choose>
-                <xsl:when test="contains(@rdf:about, '#')"><xsl:value-of select="substring-after(@rdf:about, '#')"/></xsl:when>
-                <xsl:otherwise><xsl:value-of select="@rdf:about"/></xsl:otherwise>
-            </xsl:choose>
-        </xsl:variable>
-        <xsl:element name="bibl">
-            <xsl:attribute name="id">cl-<xsl:value-of select="generate-id(.)"/></xsl:attribute>
-            <xsl:attribute name="type">article</xsl:attribute>
-                <title level="a" type="main"><xsl:value-of select="dc:title"/></title>
-                <xsl:apply-templates select="bib:authors"/>
-                <title>
-                    <xsl:value-of select="following-sibling::bib:Journal[1]/dc:title"/>
-                </title>
-                <imprint>
-                    <date><xsl:value-of select="dc:date"/></date>
-                    <biblScope type="vol"><xsl:value-of select="following-sibling::bib:Journal[1]/prism:volume"/></biblScope>
-                    <biblScope type="issue"><xsl:value-of select="following-sibling::bib:Journal[1]/prism:number"/></biblScope>
-                    <biblScope type="pp"><xsl:value-of select="bib:pages"/></biblScope>
-                </imprint>
-        </xsl:element>
-    </xsl:template>
+    <xsl:template match="bib:Article"/>
     
     <xsl:template match="bib:Journal"/>
     
     <xsl:template match="bib:Document"/>
+    
+    <xsl:template match="bib:BookSection"/>
     
     <xsl:template match="rdf:Description">
         <xsl:choose>
@@ -154,12 +135,23 @@
             <xsl:for-each select="dc:title">
                 <title level="s"><xsl:value-of select="."/></title>
             </xsl:for-each>
+            <xsl:choose>
+                <xsl:when test="dc:identifier">
+                    <biblScope type="volume"><xsl:value-of select="dc:identifier"/></biblScope>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:for-each select="../../prism:volume">
+                        <biblScope type="volume"><xsl:value-of select="."/></biblScope>
+                    </xsl:for-each>
+                </xsl:otherwise>
+            </xsl:choose>
         </series>
     </xsl:template>
     
     <xsl:template match="dc:subject">
         <note type="subject"><xsl:value-of select="."/></note>
     </xsl:template>
+    
    <xsl:template match="dc:identifier[contains(., 'ISBN')]">
         <idno type="ISBN"><xsl:value-of select="normalize-space(substring-after(., 'ISBN'))"/></idno>
     </xsl:template>
@@ -168,5 +160,12 @@
         <ptr target="{dcterms:URI/rdf:value}"/>
     </xsl:template>
     
+    <xsl:template match="prism:volume">
+        <xsl:if test="../dcterms:isPartOf/bib:Series[dc:identifier]">
+            <xsl:comment>check for missing "virtual" series information</xsl:comment>
+            <xsl:message>possible missing "virtual" series information for short title <xsl:value-of select="ancestor::bib:Book/z:shortTitle"/></xsl:message>
+            <biblScope type="volume"><xsl:value-of select="."/></biblScope>
+        </xsl:if>
+    </xsl:template>
     
 </xsl:stylesheet>
