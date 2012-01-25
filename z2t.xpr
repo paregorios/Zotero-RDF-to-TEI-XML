@@ -101,7 +101,7 @@
                                     <String-array/>
                                 </field>
                                 <field name="xslTransformer">
-                                    <String>Saxon6.5.5</String>
+                                    <String>Saxon-EE</String>
                                 </field>
                                 <field name="extensionURLs">
                                     <String-array/>
