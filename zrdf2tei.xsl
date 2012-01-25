@@ -30,12 +30,12 @@
     <xsl:template match="bib:Book">
         <xsl:variable name="cl-id">
             <xsl:choose>
-                <xsl:when test="contains(@rdf:about, '#')"><xsl:value-of select="substring-after(@rdf:about, '#')"/></xsl:when>
-                <xsl:otherwise><xsl:value-of select="@rdf:about"/></xsl:otherwise>
+                <xsl:when test="contains(@rdf:about, '#')">clzx-<xsl:value-of select="substring-after(@rdf:about, '#item_')"/></xsl:when>
+                <xsl:otherwise>clza-<xsl:value-of select="count(preceding-sibling::*)+1"/></xsl:otherwise>
             </xsl:choose>
         </xsl:variable>
         <xsl:element name="bibl">
-            <xsl:attribute name="id">cl-<xsl:value-of select="generate-id(.)"/></xsl:attribute>
+            <xsl:attribute name="id"><xsl:value-of select="$cl-id"/></xsl:attribute>
             <xsl:attribute name="type">book</xsl:attribute>
             <title level="m" type="main">
                 <xsl:value-of select="dc:title"/>
@@ -157,7 +157,12 @@
     </xsl:template>
     
     <xsl:template match="dc:identifier[dcterms:URI]">
-        <ptr target="{dcterms:URI/rdf:value}"/>
+        <xsl:for-each select="tokenize(dcterms:URI/rdf:value, ',')">
+            <xsl:variable name="saneuri"><xsl:value-of select="normalize-space(.)"/></xsl:variable>
+            <xsl:element name="ptr">
+                <xsl:attribute name="target"><xsl:value-of select="normalize-space($saneuri)"/></xsl:attribute>
+            </xsl:element>
+        </xsl:for-each>
     </xsl:template>
     
     <xsl:template match="prism:volume">
